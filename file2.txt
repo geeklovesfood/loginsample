@@ -1,5 +1,5 @@
 .LOG
 
-first time: created file2.txt 
+first time: created on loginsample branch on github
 
 11:41 PM 6/9/2018
