@@ -1,5 +1,5 @@
 .LOG
 
-first time: created on loginsample branch on github
+first time: created on master branch of loginsample Repository on github
 
 11:42 PM 6/9/2018
