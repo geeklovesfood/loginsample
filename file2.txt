@@ -1,3 +1,5 @@
 .LOG
 
+first time: created file2.txt 
 
+11:41 PM 6/9/2018
